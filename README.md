@@ -1,7 +1,6 @@
 <!DOCTYPE html>
-
-<meta> charset="UTF-8"/>
-
+<html> 
+        
 <img scr="![flor](https://github.com/ashnotshy1/Nanami/assets/143530775/a014c49b-0d0b-4e2c-9203-6c9bfaecb1a4)
 "/>
 
