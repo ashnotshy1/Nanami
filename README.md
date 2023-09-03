@@ -1,8 +1,7 @@
 <user>
-Welcome!
-    
 <DOCTYPE html>
 <html lang "pt-br">
+</html>
 <head>
     <Meta chanset> = "UTF - 8"
     <Meta name "Viewpost" content = with inedital scale = 10>
