@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang "pt-br">
 
-<Cite> Nanami </Cite>
+<b> Nanami </b>
 
-<img scr="flor.jpg"/>
+<img scr="flor"/>
 
 
     <head>
