@@ -4,7 +4,9 @@
 <html lang "pt-br">
 
     <head>
-    <title> Nanami-San </title>
+    <title>Nanami Scan</title>
+    </head>
+    
 <Body>
     <h1> Nanami Scan </h1>
     <h2> Sobre nós </h2>
