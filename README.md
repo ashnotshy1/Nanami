@@ -5,6 +5,7 @@
 
 <img scr="flor.jpg"/>
 
+
     <head>
     <title>Inicio</title>
     </head>
