@@ -1,4 +1,4 @@
-<user>.github.io 
+<user>
 
 <!DOCTYPE html>
 <html lang "pt-br">
