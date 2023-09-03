@@ -4,15 +4,17 @@
 <html lang "pt-br">
 
     <head>
-    <title>Nanami Scan</title>
+    <title>Inicio</title>
     </head>
     
 <Body>
-    <h1> Nanami Scan </h1>
-    <h2> Sobre nós </h2>
-    <p> A nanami scan, criada em 30 de agosto de 2023, vêm trazendo mangás, manhwas e donghuas traduzidos de forma completamente gratuita. S </p>
-    <h2> - </h2>
-    <p> - </p>
+    <h1>Obras</h1>
+        <p> </p>
+    
+        <h2> Obras Finalizadas </h2>
+        <p>La di da</p>
+        <h2></h2>
+        <p> - </p>
     <p> - </p>
        <hr>
     </body>
