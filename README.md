@@ -1,12 +1,12 @@
 <user>
 Welcome!
     
-<!DOCTYPE html>
+<DOCTYPE html>
 <html lang "pt-br">
 <head>
     <Meta chanset> = "UTF - 8"
-    <Meta name "Viewpost" content = with inedital scale = 10"
-    <title> document </Title>
+    <Meta name "Viewpost" content = with inedital scale = 10>
+    <title> Nanami-San </Title>
 <Body>
     <h1> Nanami Scan </h1>
     <h2> Sobre nós </h2>
