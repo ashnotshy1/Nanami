@@ -3,7 +3,8 @@
 
 <b> Nanami </b>
 
-<img scr="flor"/>
+<img scr="![flor](https://github.com/ashnotshy1/Nanami/assets/143530775/a014c49b-0d0b-4e2c-9203-6c9bfaecb1a4)
+"/>
 
 
     <head>
